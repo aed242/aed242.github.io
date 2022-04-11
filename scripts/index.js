@@ -1,8 +1,8 @@
 //via https://medium.com/front-end-weekly/how-to-create-typing-effect-in-css-and-js-3252dd807f0a. I customized the code to meet my needs. 
 const carouselText = [
-    {text: "CS Student @ Boston University", color: "rgb(0,175,156)", vowel: "a "},
-    {text: "Aspiring Software Engineer", color: "rgb(84,92,235)", vowel: "an "},
-    {text: "Interested in FinTech", color: "rgb(0,175,156)", vowel: ""}
+    {text: "Recent Graduate", color: "rgb(0,175,156)", vowel: "a "},
+    {text: "Passionate about full stack development", color: "rgb(84,92,235)", vowel: ""},
+    {text: "Looking for new opportunities", color: "rgb(0,175,156)", vowel: ""}
   ]
   
   $( document ).ready(async function() {
